@@ -1,11 +1,11 @@
 ﻿<h1 align="center">Hey 👋, I'm Nicolas Gautier</h1>
-<h3 align="center">💻 CS Student @UTC | Apprentice @STMicroelectronics | Data Science & AI Enthusiast</h3>
+<h3 align="center">💻 CS Student @UTC | Apprentice @Nokia | Data Science & AI Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Currently studying **Computer Science (Data Science & AI)** at **Université de Technologie de Compiègne (UTC)** 🇫🇷  
-- 💼 Working at **STMicroelectronics**, enriching my technical foundation  
+- 💼 Working at **Nokia**, enriching my technical foundation  
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Robotics**  
 - 🚗 Fascinated by the broader field of **autonomous vehicles** and intelligent systems  
 - 💡 Driven by adaptability and resilience, I have built a career path focused on Data and AI  
